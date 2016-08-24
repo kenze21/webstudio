@@ -32,7 +32,7 @@ extensions:
   graph:
     steps:
       ssss:
-        x: 217
+        x: 216
         y: 159
         navigate:
           2a1e8819-3b17-c2af-1541-ad0a598cfd94:
